@@ -2,6 +2,8 @@
 
 Your goal is to use the canvas create an animated clock that looks roughly like this:
 
+https://github.com/IGME-330-01-2235/fe04-canvas/assets/1882129/745dd633-92dd-40d7-845f-8cd545be1f3f
+
 ## Recommended Steps
 
 #### 0 - Initial Setup
